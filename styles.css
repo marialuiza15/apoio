@@ -1,0 +1,6 @@
+/* styles.css */
+.sidebar {
+    width: 3000px;  /* Ajuste a largura do menu lateral */
+    background-color: #f8f9fa;  /* Cor de fundo do menu lateral */
+    padding: 15px;  /* Espaçamento interno */
+}
