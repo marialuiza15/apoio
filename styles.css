@@ -1,6 +1,9 @@
-/* styles.css */
-.sidebar {
-    width: 350;  /* Ajuste a largura do menu lateral */
-    background-color: #f8f9fa;  /* Cor de fundo do menu lateral */
-    padding: 15px;  /* Espaçamento interno */
+.bslib-sidebar-layout>.sidebar {
+    grid-column: 1 / 2;
+    width: 150%;
+    border-right: var(--_vert-border);
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    color: var(--_sidebar-fg);
+    background-color: var(--_sidebar-bg);
 }
